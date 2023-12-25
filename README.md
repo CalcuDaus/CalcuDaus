@@ -38,11 +38,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<hr/>
-<br/>
-<br/>
 :fire: My Stats :
-<br/>
+<br>
 <div>
   
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CalcuDaus&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
