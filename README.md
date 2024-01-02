@@ -21,7 +21,7 @@
 </div>
 
  :hammer_and_wrench: Languages and Tools :
-<div>
+<div align="center">
   <table cellpadding="5" cellspacing="0" border="1">
     <tr>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;</td>
