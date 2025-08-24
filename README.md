@@ -22,7 +22,9 @@
   <table cellpadding="5" cellspacing="0" border="1">
     <tr>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;</td>
+      <td>
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          &nbsp;</td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;</td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;</td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;</td>
