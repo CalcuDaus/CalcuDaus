@@ -23,7 +23,7 @@
     <tr>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;</td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;</td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;</td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;</td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;</td>
     </tr>
