@@ -43,7 +43,6 @@
 :fire: My Stats :
 
 <br>
-<p>https://drive.google.com/file/d/1bCQDOvJYTKzN3wNtZXa68HIlFB01Jvp3/view</p>
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CalcuDaus&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
   
