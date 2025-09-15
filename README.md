@@ -39,6 +39,7 @@
   </table>
 </div>
 <hr>
+https://www.figma.com/design/hhVhkmKpbI2gTWIAHUu9Ik/Untitled?node-id=1-3&t=dBZ8WaNcd73FXbm2-1
 
 :fire: My Stats :
 
